@@ -34,7 +34,6 @@ function PortfolioProjects() {
           layout="responsive"
         />
       </div>
-
       <div className="basis-1/3 flex-1">
         <Image
           src={web5}
@@ -55,7 +54,6 @@ function PortfolioProjects() {
           layout="responsive"
         />
       </div>
-
       <div className="basis-1/3 flex-1">
         <Image
           src={recipesSmoothieApp}
