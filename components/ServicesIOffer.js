@@ -1,7 +1,7 @@
 import Image from "next/image";
-import design from "../../public/design.png";
-import code from "../../public/code.png";
-import consulting from "../../public/consulting.png";
+import design from "../public/design.png";
+import code from "../public/code.png";
+import consulting from "../public/consulting.png";
 
 function ServicesIOffer() {
   return (

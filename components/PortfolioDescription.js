@@ -1,5 +1,5 @@
 import Image from "next/image";
-import memojiLaptop from "../../public/memojiLaptop.png";
+import memojiLaptop from "../public/memojiLaptop.png";
 
 export default function PortfolioDescription() {
   return (

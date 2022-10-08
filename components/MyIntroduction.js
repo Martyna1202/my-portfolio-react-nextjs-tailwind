@@ -1,7 +1,7 @@
 import React from "react";
 import Links from "./Links";
 import Image from "next/image";
-import memojiMMWinking from "../../public/memojiMMWinking.png";
+import memojiMMWinking from "../public/memojiMMWinking.png";
 
 function MyIntroduction() {
   return (

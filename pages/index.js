@@ -1,9 +1,9 @@
-import Header from "./components/Header";
-import Portfolio from "./components/Portfolio";
-import Navigation from "./components/Navigation";
-import { useDarkModeContext } from "./useContext/DarkmodeContext";
-import MyIntroduction from "./components/MyIntroduction";
-import ServicesIOffer from "./components/ServicesIOffer";
+import Header from "../components/Header";
+import Portfolio from "../components/Portfolio";
+import Navigation from "../components/Navigation";
+import { useDarkModeContext } from "../components/useContext/DarkmodeContext";
+import MyIntroduction from "../components/MyIntroduction";
+import ServicesIOffer from "../components/ServicesIOffer";
 
 export default function Home() {
   const { darkMode } = useDarkModeContext();

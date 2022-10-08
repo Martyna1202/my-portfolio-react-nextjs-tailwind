@@ -1,5 +1,5 @@
 import { BsFillMoonStarsFill } from "react-icons/bs";
-import { useDarkModeContext } from "../useContext/DarkmodeContext.js";
+import { useDarkModeContext } from "./useContext/DarkmodeContext.js";
 
 function Navigation() {
   const { changeDarkMode } = useDarkModeContext();

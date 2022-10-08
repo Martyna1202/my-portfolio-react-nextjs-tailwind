@@ -1,5 +1,5 @@
 import "../styles/globals.css";
-import { DarkModeContextProvider } from "./useContext/DarkmodeContext";
+import { DarkModeContextProvider } from "../components/useContext/DarkmodeContext";
 
 function MyApp({ Component, pageProps }) {
   return (
