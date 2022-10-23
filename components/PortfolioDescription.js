@@ -33,8 +33,10 @@ export default function PortfolioDescription() {
         some day, because I`m also a tutor and I love it.
       </p>
       <p className=" text-md py-2 leading-8 text-amber-800 dark:text-amber-100">
-        Here are some of my Projects at the beginning of my journey. As soon, as
-        there will be new Projects, I will show you all of them...
+        Here are some of my Projects at the beginning of my journey, that I`m
+        very proud of. They all are very different, but I love making new
+        experiences and trying and learning new things. As soon, as there will
+        be new Projects, I will show you all of them...
       </p>
     </div>
   );
